@@ -2,7 +2,7 @@
 
 Desarrollador de software enfocado en la creación de aplicaciones web, servicios backend y arquitecturas escalables utilizando Java, Spring Boot y el ecosistema TypeScript.
 
-[Mi Portafolio](https://github.com/ChrstDev/Portfolio-Christopher) • [LinkedIn](https://linkedin.com) • [Contacto](mailto:tu_correo@ejemplo.com)
+[Mi Portafolio](https://github.com/ChrstDev/Portfolio-Christopher) • [LinkedIn](https://www.linkedin.com/in/christopher-ramos-torres)
 
 ---
 
